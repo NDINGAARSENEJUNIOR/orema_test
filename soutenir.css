@@ -1,0 +1,357 @@
+    .div {
+      background-color: #fff;
+      display: flex;
+      max-width: 480px;
+      width: 100%;
+      padding-top: 26px;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 auto;
+    }
+    .div-2 {
+      border-bottom: 1px solid #5e5e5e;
+      background-color: #fff;
+      align-self: stretch;
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 21px 25px;
+      margin-left: -50px;
+    }
+    .div-3 {
+      justify-content: center;
+      color: #000;
+      text-align: center;
+      align-self: start;
+      aspect-ratio: 4.92;
+      font: 400 20px Island Moments, sans-serif;
+      margin-left: 50px;
+    }
+    .img {
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: center;
+      width: 30px;
+      margin-left:-50px;
+    }
+    .div-4 {
+      background-color: var(--primary-600, #203949);
+      align-self: stretch;
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+      font-size: 14px;
+      color: #fff;
+      font-weight: 400;
+      padding: 21px 24px 50px;
+      margin-left: -25px;
+    }
+    .div-5 {
+      font: 700 32px Inria Sans, sans-serif;
+    }
+    .div-6 {
+      font-family: Inria Sans, sans-serif;
+      margin-top: 12px;
+    }
+    .div-7 {
+      font-family: Inria Sans, sans-serif;
+      white-space: nowrap;
+      margin: 15px 0 12px;
+    }
+    .div-8 {
+      z-index: 10;
+      display: flex;
+      margin-top: -20px;
+      gap: 11px;
+    }
+    .div-9 {
+      border-radius: 10px;
+      border: 1px solid #013a17;
+      background-color: #fff;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 10px 21px;
+    }
+    .img-2 {
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: center;
+      width: 20px;
+    }
+    .div-10 {
+      color: #9e9d92;
+      align-self: start;
+      margin-top: 8px;
+      flex-grow: 1;
+      flex-basis: auto;
+      font: 400 12px Inria Sans, sans-serif;
+    }
+    .img-3 {
+      aspect-ratio: 0.93;
+      object-fit: contain;
+      object-position: center;
+      width: 37px;
+    }
+    .div-11 {
+      color: #fff;
+      border-radius: 10px;
+      background-color: #07af7e;
+      margin-top: 22px;
+      width: 100%;
+      max-width: 300px;
+      justify-content: center;
+      align-items: center;
+      padding: 14px 60px;
+      font: 700 16px Inria Sans, sans-serif;
+      text-align: center;
+    }
+    .div-12 {
+      border-radius: 15px;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+      background-color: #fff;
+      display: flex;
+      margin-top: 19px;
+      width: 100%;
+      max-width: 375px;
+      padding-bottom: 10px;
+      flex-direction: column;
+    }
+    .img-4 {
+      aspect-ratio: 1.79;
+      object-fit: contain;
+      object-position: center;
+      width: 100%;
+    }
+    .div-13 {
+      color: var(--secondary-700, #001509);
+      margin-top: 12px;
+      font: 700 14px Inria Sans, sans-serif;
+    }
+    .div-14 {
+      display: flex;
+      margin-top: 11px;
+      padding-right: 20px;
+      justify-content: space-between;
+      gap: 11px;
+    }
+    .div-15 {
+      color: var(--secondary-700, #001509);
+      flex-grow: 1;
+      white-space: nowrap;
+      font: 800 14px Inter, sans-serif;
+    }
+    .div-16 {
+      color: #606060;
+      flex-grow: 1;
+      flex-basis: auto;
+      font: 400 12px Inria Sans, sans-serif;
+    }
+    .div-17 {
+      border-radius: 10px;
+      background-color: #d9d9d9;
+      display: flex;
+      margin-top: 20px;
+      padding-right: 60px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: start;
+    }
+    .div-18 {
+      border-radius: 10px;
+      background-color: #07af7e;
+      display: flex;
+      width: 106px;
+      height: 7px;
+      flex-direction: column;
+    }
+    .div-19 {
+      align-self: start;
+      display: flex;
+      gap: 0px;
+      margin: 16px 0 0 11px;
+    }
+    .img-5 {
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: center;
+      width: 25px;
+    }
+    .div-20 {
+      color: #606060;
+      align-self: start;
+      margin-top: 10px;
+      flex-grow: 1;
+      white-space: nowrap;
+      font: 400 12px Inter, sans-serif;
+    }
+    .div-21 {
+      border-radius: 15px;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+      background-color: #fff;
+      display: flex;
+      margin-top: 33px;
+      width: 100%;
+      max-width: 375px;
+      padding-bottom: 10px;
+      flex-direction: column;
+    }
+    .img-6 {
+      aspect-ratio: 1.79;
+      object-fit: contain;
+      object-position: center;
+      width: 100%;
+    }
+    .div-22 {
+      color: var(--secondary-700, #001509);
+      margin-top: 14px;
+      font: 700 12px Inria Sans, sans-serif;
+    }
+    .div-23 {
+      display: flex;
+      margin-top: 13px;
+      padding-right: 20px;
+      justify-content: space-between;
+      gap: 13px;
+    }
+    .div-24 {
+      color: var(--secondary-700, #001509);
+      white-space: nowrap;
+      font: 800 14px Inter, sans-serif;
+    }
+    .div-25 {
+      color: #606060;
+      flex-grow: 1;
+      flex-basis: auto;
+      font: 400 12px Inria Sans, sans-serif;
+    }
+    .div-26 {
+      border-radius: 10px;
+      background-color: #d9d9d9;
+      display: flex;
+      margin-top: 20px;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .div-27 {
+      border-radius: 10px;
+      background-color: #07af7e;
+      display: flex;
+      height: 7px;
+      flex-direction: column;
+    }
+    .div-28 {
+      align-self: start;
+      display: flex;
+      gap: 0px;
+      margin: 16px 0 0 11px;
+    }
+    .img-7 {
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: center;
+      width: 25px;
+    }
+    .div-29 {
+      color: #606060;
+      align-self: start;
+      margin-top: 10px;
+      flex-grow: 1;
+      white-space: nowrap;
+      font: 400 12px Inria Sans, sans-serif;
+    }
+    .div-30 {
+      background-color: var(--primary-600, #203949);
+      align-self: stretch;
+      display: flex;
+      margin-top: 90px;
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      font-size: 11px;
+      color: #fff;
+      font-weight: 400;
+      white-space: nowrap;
+      padding: 26px 33px 50px;
+      margin-left: -50px;
+    }
+    .div-31 {
+      align-self: start;
+      display: flex;
+      width: 269px;
+      max-width: 100%;
+      flex-direction: column;
+      align-items: end;
+      font-weight: 300;
+      margin-left: 20px;
+    }
+    .div-32 {
+      justify-content: center;
+      text-align: center;
+      align-self: start;
+      font: 400 19px Island Moments, sans-serif;
+      margin-left: 25px;
+    }
+    .div-33 {
+      color: var(--primary-100, #86ffcc);
+      margin-top: 20px;
+      font: 700 20px Inria Sans, sans-serif;
+    }
+    .div-34 {
+      color: var(--primary-100, #86ffcc);
+      margin: 24px 64px 0 0;
+      font: 700 12px Inria Sans, sans-serif;
+    }
+    .div-35 {
+      font-family: Inria Sans, sans-serif;
+      margin: 7px 44px 0 0;
+    }
+    .div-36 {
+      font-family: Inria Sans, sans-serif;
+      margin: 8px 69px 0 0;
+    }
+    .div-37 {
+      color: var(--primary-100, #86ffcc);
+      margin: 15px 62px 0 0;
+      font: 700 12px Inria Sans, sans-serif;
+    }
+    .div-38 {
+      font-family: Inria Sans, sans-serif;
+      margin: 10px 52px 0 0;
+    }
+    .div-39 {
+      font-family: Inria Sans, sans-serif;
+      align-self: center;
+      margin-top: 11px;
+      margin-bottom: 11px;
+      margin-left: 90px;
+    }
+    .img-8 {
+      aspect-ratio: 8.33;
+      object-fit: contain;
+      object-position: center;
+      width: 50px;
+      margin-top: 31px;
+     margin-left:50px;
+    }
+    .div-40 {
+      font-family: Inria Sans, sans-serif;
+      margin-top: 16px;
+      margin-left: 20px;
+    }
+    .div-41 {
+      font-family: Inria Sans, sans-serif;
+      margin-top: 10px;
+      margin-left: 20px;
+    }
+    .div-42 {
+      font-family: Inria Sans, sans-serif;
+      margin-top: 10px;
+      margin-left: 20px;
+    }
+    .div-43 {
+      font-family: Inria Sans, sans-serif;
+      margin: 10px 0 12px;
+      margin-left: 20px;
+    }
